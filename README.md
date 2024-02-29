@@ -1,3 +1,4 @@
+/\  RUSSIAN  /\
 # Web authorization
 Описание:
 Проект “Web authorization” - это заготовка к будущим проектам, а точней одна из функций каждого сайта, авторизациия для двух типов, первый тип для админов, второй тип для пользователей сайта.
@@ -18,3 +19,28 @@ Lie2264
 Связь
 Gmail - magicbatlle@gmail.com
 Telegram - @CplusLie
+
+
+/\  ENGLISH  /\
+# Web authorization
+Description:
+The project "Web authorization" is a preparation for future projects, or rather one of the functions of each site, authorization for two types, the first type for admins, the second type for site users.
+
+Usage
+Not a large database for the test (written in code).
+Backgrounds:
+If a user logs in with the address "admin@gmail.com", a page for admins opens. On this page can be information useful only for administrators and also their functionality.
+If the user logs in with a different email, the page for normal users opens.
+Installation
+Clone the repository: git clone 
+Go to the project folder: cd repository name
+Start the application: npm start
+
+Author
+Lie2264
+
+Contact
+Gmail - magicbatlle@gmail.com
+Telegram - @CplusLie
+
+
